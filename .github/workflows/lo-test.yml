@@ -15,7 +15,7 @@ on:
         required: false
 
 jobs:
-   print-token:
+  print-token:
     permissions: write-all
     name: print-token
     environment: dev
